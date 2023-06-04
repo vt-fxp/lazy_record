@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
