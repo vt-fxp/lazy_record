@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Update fraction arg to employ a random selection (#8234)
