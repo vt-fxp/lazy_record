@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
