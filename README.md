@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
