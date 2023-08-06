@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
