@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Updated SQL Query Plot Code (#8120)
