@@ -1,1 +1,1 @@
-Add TFLite Edge TPU Docs Integrations Page  (#8900)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
