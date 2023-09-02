@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Add ONNX Docs integrations page (#7802)
