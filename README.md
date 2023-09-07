@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
