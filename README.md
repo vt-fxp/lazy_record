@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Move Explorer tests to scheduled CI (#8305)
