@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Update the heatmap module code + docs (#7045)
