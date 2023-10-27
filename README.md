@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add Neural Magic Docs integrations page (#7234)
