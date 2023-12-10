@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Resize angle, count, and stage on keypoint number change (#7598)
