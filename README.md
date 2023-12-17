@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
