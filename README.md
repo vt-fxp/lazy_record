@@ -1,1 +1,1 @@
-Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
