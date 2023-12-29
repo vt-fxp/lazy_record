@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
