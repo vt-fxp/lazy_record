@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
