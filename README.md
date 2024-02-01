@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Docs partial mdformat improvements (#7378)
