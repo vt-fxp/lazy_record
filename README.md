@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
