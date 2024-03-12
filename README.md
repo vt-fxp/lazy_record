@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
