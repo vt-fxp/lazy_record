@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Fix device counting method to account for double-digit device IDs (#8502)
