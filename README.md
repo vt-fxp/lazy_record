@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
