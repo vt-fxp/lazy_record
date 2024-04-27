@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Add HUB-SDK docs (#7775)
