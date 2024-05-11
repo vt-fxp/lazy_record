@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Conda cv2 ImportError libEGL.so.1 fix (#9255)
