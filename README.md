@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+OBB: Fix plot_images (#7592)
