@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+Auto-format by https://ultralytics.com/actions
