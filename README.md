@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Elaborate Train and Predict mode docs arguments (#8137)
