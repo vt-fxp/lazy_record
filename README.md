@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
