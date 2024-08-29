@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
