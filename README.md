@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Fix docker.yaml double-quote version bug (#7452)
