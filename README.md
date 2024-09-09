@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
