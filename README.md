@@ -1,1 +1,1 @@
-ultralytics 8.0.227 respect defaults.yaml data (#6935)
+Compare plt.get_backend() in lowercase (#8409)
