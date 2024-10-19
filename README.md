@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
