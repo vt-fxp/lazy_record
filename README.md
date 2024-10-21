@@ -1,1 +1,1 @@
-ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
+New HUB Cloud Training docs page (#8174)
